@@ -4,8 +4,7 @@ Scripts act on the input data txt files which contain 50000 sets of input parame
 
 # rand.py
 
-Implements the random selection algorithm for choosing which main memory
-to replace next.
+Implements the random selection algorithm for choosing which main memory page to replace next.
 
 To run this file in the terminal:
 
@@ -16,8 +15,7 @@ To run this file in the terminal:
 
 # fifo.py
 
-Implements the FIFO algorithm for choosing which main memory
-to replace next.
+Implements the FIFO algorithm for choosing which main memory page to replace next.
 
 
 To run this file in the terminal:
